@@ -1,0 +1,15 @@
+Head
+Neck
+RShoulder
+RElbow
+RWrist
+LShoulder
+LElbow
+LWrist
+RHip
+RKnee
+RAnkle
+LHip
+LKnee
+LAnkle
+Chest
